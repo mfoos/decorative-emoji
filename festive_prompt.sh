@@ -1,6 +1,6 @@
 #!/bin/bash
 
-os_stuff=':\W \u '
+os_stuff=':\W \u$ '
 
 case `date +%m` in
     03|04|05)
