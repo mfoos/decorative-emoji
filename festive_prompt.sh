@@ -9,7 +9,7 @@ case `date +%m` in
         emoji=☀️  ;;
     09|10|11)
         emoji=🍂  ;;
-    12|01|01)
+    12|01|02)
         emoji=❄️  ;;
 esac
 
